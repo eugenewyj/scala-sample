@@ -1,4 +1,4 @@
-package com.fengbaoxp.scala.hello
+package org.eugene.scala.hello
 
 /**
  * HelloScala样例。

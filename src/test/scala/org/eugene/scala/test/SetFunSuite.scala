@@ -1,4 +1,4 @@
-package com.fengbaoxp.scala.test
+package org.eugene.scala.test
 
 import org.scalatest.FunSuite
 

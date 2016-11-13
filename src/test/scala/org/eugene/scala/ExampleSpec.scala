@@ -1,4 +1,4 @@
-package com.fengbaoxp.scala
+package org.eugene.scala
 
 import java.util
 

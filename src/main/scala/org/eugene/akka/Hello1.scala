@@ -1,4 +1,4 @@
-package com.fengbaoxp.akka
+package org.eugene.akka
 
 import akka.actor._
 
