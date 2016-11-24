@@ -2,8 +2,8 @@ package org.eugene.company
 
 import java.io.PrintWriter
 
-import _root_.scala.collection.mutable
-import _root_.scala.io.Source
+import scala.collection.mutable
+import scala.io.Source
 
 /**
  *
