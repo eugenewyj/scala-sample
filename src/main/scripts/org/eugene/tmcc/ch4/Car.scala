@@ -8,6 +8,7 @@ class Car(val year: Int) {
 
   def miles() = milesDriven
 
+  @throws(classOf[Exception])
   def drive(distance: Int): Unit = {
     milesDriven += Math.abs(distance)
   }
